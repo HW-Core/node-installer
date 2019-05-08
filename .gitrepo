@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/HW-Core/node-installer
+	branch = master
+	commit = 9db7c5615c1d23d63a8a0b37500566a4c8937093
+	method = merge
+	cmdver = 0.4.0
+	parent = b240cda2b3fec4381605719ce89977c6af216c83
